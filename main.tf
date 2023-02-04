@@ -1,4 +1,4 @@
 module "label" {
-  source  = "boguscorp/junk/bogus"
-  
+  source = "boguscorp/junk/bogus"
+
 }
